@@ -1,0 +1,4 @@
+# sv305_ccd_custom
+This is a customized version of the SVONY SV305 indi driver. Based on stable version 1.9.6
+https://github.com/indilib/indi-3rdparty
+
